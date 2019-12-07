@@ -1,3 +1,4 @@
+// Comment typo-rew
 public class Test11 {
 
     public static void main(String[] args) {
@@ -6,7 +7,7 @@ public class Test11 {
 			System.out.println(s);
 			System.out.println(s);
 			
-//kjhbkjhkjbhkjbh//
+
         }
     }
 }
